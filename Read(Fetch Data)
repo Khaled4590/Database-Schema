@@ -1,0 +1,4 @@
+SELECT * FROM Users;
+
+Fetch a single user by emil
+SELECT * FROM Users WHERE email = 'john@example.com';
