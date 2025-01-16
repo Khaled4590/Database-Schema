@@ -1,0 +1,3 @@
+UPDATE Users 
+SET name = 'John D.' 
+WHERE email = 'john@example.com';
